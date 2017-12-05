@@ -17,6 +17,8 @@ Inheritance: One Object gets access to the properties and methods of another obj
 Function Constructors: A normal function that is used to construct objects.
 Primitive: A Type of data that represents a single value.
 Scope: Where in code you have access to a particular variable or function.
+JSON: Javascript Object Notation - A standard for structuring data that is inspired by javascript object literals.
+
 
 V8 Engine{
     -Machine Code(Language) : Programming languages spoken by computer processors.
