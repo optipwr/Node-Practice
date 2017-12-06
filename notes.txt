@@ -20,7 +20,9 @@ Scope: Where in code you have access to a particular variable or function.
 JSON: Javascript Object Notation - A standard for structuring data that is inspired by javascript object literals.
 Revealing Module Pattern: Exposing only the properties and methods you want via a returned object.
 Mutate: To change something.
-
+Events: Something that has happened in our app that we can respond to.
+    System Events: Come from C++ Core in libuv.
+    Custom Events: Inside JavaScript Core (Event Emitter).
 
 V8 Engine{
     -Machine Code(Language) : Programming languages spoken by computer processors.
