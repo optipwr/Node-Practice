@@ -24,6 +24,7 @@ Events: Something that has happened in our app that we can respond to.
     System Events: Come from C++ Core in libuv.
     Custom Events: Inside JavaScript Core (Event Emitter).
 
+
 V8 Engine{
     -Machine Code(Language) : Programming languages spoken by computer processors.
         -Every program you run on your computer has been converted(Compiled) into machine code.
