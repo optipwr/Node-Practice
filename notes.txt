@@ -23,6 +23,7 @@ Mutate: To change something.
 Events: Something that has happened in our app that we can respond to.
     System Events: Come from C++ Core in libuv.
     Custom Events: Inside JavaScript Core (Event Emitter).
+Magic String: A string that has some special meaning in our code.
 
 
 V8 Engine{
