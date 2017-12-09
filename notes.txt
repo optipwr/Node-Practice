@@ -29,6 +29,11 @@ Asynchronous: More than one process running simultaneously.
 Synchronous: One process executing at a time.
 Callback: A function passed to some other function, which we assume will be invoked at some point.
 Non-Blocking: Doing other things without stopping your program from running.
+Buffer: A temporary holding spot for data being moved from one place to another.
+Stream: A sequence of data made available over time.
+Binary Data: Data stored in binary.
+Character Set: A representation of characters as numbers.
+Character Encoding: How characters/digits are stored in binary.
 
 
 V8 Engine{
