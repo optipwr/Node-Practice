@@ -1,3 +1,12 @@
+V8 Engine{
+    -Machine Code(Language) : Programming languages spoken by computer processors.
+        -Every program you run on your computer has been converted(Compiled) into machine code.
+    -JavaScript is a very high level coding language
+    -Node is written in C++
+    -V8 is written in C++
+    -V8 is entirely open sourced
+}
+
 CLI = Command Line Interface : A Utility to type commands to your computer rather than clicking. (Bash, Terminal)
 Arguments : Values you give your program that affect how it runs.
 Machine Code(Language) : Programming languages spoken by computer processors.
@@ -34,13 +43,3 @@ Stream: A sequence of data made available over time.
 Binary Data: Data stored in binary.
 Character Set: A representation of characters as numbers.
 Character Encoding: How characters/digits are stored in binary.
-
-
-V8 Engine{
-    -Machine Code(Language) : Programming languages spoken by computer processors.
-        -Every program you run on your computer has been converted(Compiled) into machine code.
-    -JavaScript is a very high level coding language
-    -Node is written in C++
-    -V8 is written in C++
-    -V8 is entirely open sourced
-}
