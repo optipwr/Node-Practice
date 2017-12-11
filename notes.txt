@@ -15,7 +15,6 @@ A JavaScript Engine : A program that converts JavaScript code into something the
 Definitions of commonly used terms:
     Module: A reusable block of code whose existence does not accidentally impact other code.
     CommonJS Modules: An agreed upon standard for how code modules should be structured.
-
 First-Class Functions : Everything you can do with other types, you can do with functions.
 Expression : A block of code that results in a value.
 Invoke : Run the function.
