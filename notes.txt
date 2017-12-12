@@ -42,3 +42,4 @@ Stream: A sequence of data made available over time.
 Binary Data: Data stored in binary.
 Character Set: A representation of characters as numbers.
 Character Encoding: How characters/digits are stored in binary.
+Byte: 8 Bits
