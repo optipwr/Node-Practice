@@ -44,3 +44,6 @@ Character Set: A representation of characters as numbers.
 Character Encoding: How characters/digits are stored in binary.
 Byte: 8 Bits
 Error-First Callback: Callbacks take an error object as their first parameter.
+Chunk: A piece of data being sent through a stream.
+Abstract (Base) Class: A type of constructor you never work directly with, but inherit from.
+Pipe: Connecting two streams by writing to one stream what is being read from another.
