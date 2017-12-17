@@ -6,7 +6,6 @@ V8 Engine {
     -V8 is written in C++
     -V8 is entirely open sourced
 }
-
 CLI = Command Line Interface : A Utility to type commands to your computer rather than clicking. (Bash, Terminal)
 Arguments : Values you give your program that affect how it runs.
 Machine Code(Language) : Programming languages spoken by computer processors.
