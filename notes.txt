@@ -28,8 +28,8 @@ JSON: Javascript Object Notation - A standard for structuring data that is inspi
 Revealing Module Pattern: Exposing only the properties and methods you want via a returned object.
 Mutate: To change something.
 Events: Something that has happened in our app that we can respond to.
-    System Events: Come from C++ Core in libuv.
-    Custom Events: Inside JavaScript Core (Event Emitter).
+    -System Events: Come from C++ Core in libuv.
+    -Custom Events: Inside JavaScript Core (Event Emitter).
 Magic String: A string that has some special meaning in our code.
 Asynchronous: More than one process running simultaneously.
     -Node does things asynchronously. V8 does not.
